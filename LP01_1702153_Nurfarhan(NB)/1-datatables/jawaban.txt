@@ -1,0 +1,3 @@
+Left Join => return semua record di table kiri lalu dicocokan dengan table kanan,akan null jika tidak ada yang sama
+Right Join => return semua record di table kanan lalu dicocokan dengan table kiri,akan null jika tidak ada yang sama
+Inner Join => return semua record di table kanan mau pun kiri yagn saling dicocokan jika tidak ada yg match maka tidak ditampilkan
